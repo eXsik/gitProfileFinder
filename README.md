@@ -1,5 +1,2 @@
-"# gitFinder" 
-"# gitFinder" 
-"# profileFinder" 
 # gitProfileFinder
-# gitProfileFinder
+API
